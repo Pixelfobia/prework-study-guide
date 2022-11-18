@@ -2,12 +2,13 @@
 
 ## A study guide for course pre-work
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation is to learn to control all the elements that make up web applications in order to design personalized applications.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I built this project to refresh previous notions and to learn new things.
+
+The main issues I ran into was getting used to git commands and using github.
+
+I learned how to use github from creating a repository, adding my ssh handle, syncing it with my editor, and using basic commands for development. I also learned basic git commands and how to create a professional Readme.
 
 ## Installation
 
